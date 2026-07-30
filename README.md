@@ -10,15 +10,6 @@ A lot of my friends struggle with this course and as someone who has taken this 
 ## How I Made This Project
 I used HTML and CSS
 
-### Challenges
-1)
-Problem: making the timeline
-Solution: I used youtube videos to figure it ouut. 
-
-3)
-Problem: making the notes for each units.
-Solution: I highlighted each one of my notes from my APUSH classes.
-
 
 
 ---
